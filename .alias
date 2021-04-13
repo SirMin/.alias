@@ -35,3 +35,4 @@ alias gitr-s='gitr --skip'
 alias gitr-a='gitr --abort'
 alias gitr-c='gitr --continue'
 alias gitp="git push "
+alias gitpl="git pull"
